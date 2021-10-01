@@ -3,7 +3,7 @@
 [![sites](http://182.61.61.133/link/resources/SoC.png)](http://SoC.Xin)
 
 * [Sunplus](https://w3.sunplus.com): [Cortex-A7](https://github.com/SoCXin/Cortex)
-* [L6R5](https://github.com/SoCXin/Level): 960 MHz
+* [L7R6](https://github.com/SoCXin/Level): 960 MHz
 
 ## [简介](https://github.com/SoCXin/SP7021/wiki)
 
